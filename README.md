@@ -1,4 +1,4 @@
-你可以点击 [这里](https://your-username.github.io/your-repo/music-player.html) 收听我喜欢的音乐。
+<embed src="//music.163.com/style/swf/widget.swf?sid=22717918&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 
 
