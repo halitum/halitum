@@ -1,6 +1,6 @@
 # _**享受午睡时光~**_
 
-### _**enjoy snap time~**_
+### _**enjoy nap time~**_
 
 <!---
 halitum/halitum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
